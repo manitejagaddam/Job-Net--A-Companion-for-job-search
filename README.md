@@ -1,4 +1,5 @@
 # 🚀 JobNet - Full-Stack Job & Networking Web Application
+- Link : https://job-net-a-companion-for-job-search.vercel.app/ai
 
 A comprehensive job and networking platform inspired by Upwork and AngelList, built with modern web technologies and AI integration.
 
