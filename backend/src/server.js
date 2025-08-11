@@ -35,10 +35,12 @@ app.use('/payments', paymentRoutes);
 app.use('/ai', aiRoutes);
 
 // Test Supabase connection
+const PORT = process.env.PORT || 5000;
+
 supabase.auth.getUser()
   .then(() => {
     console.log('Connected to Supabase successfully');
-    app.listen(5000, () => console.log('Server running on port 5000'));
+    app.listen(PORT, () => console.log('Server running on port PORT'));
   })
   .catch(err => {
     console.error('Failed to connect to Supabase:', err);
