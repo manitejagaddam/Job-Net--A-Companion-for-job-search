@@ -31,7 +31,7 @@ app.use(cors({
     'http://localhost:3000', // local dev
     'https://job-net-a-companion-for-job-search.vercel.app' // production frontend
   ],
-  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],  
   credentials: true
 }));
 
