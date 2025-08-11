@@ -9,7 +9,10 @@ A comprehensive job and networking platform inspired by Upwork and AngelList, bu
 [![GitHub Stars](https://img.shields.io/github/stars/manitejagaddam/Job-Net--A-Companion-for-job-search?style=for-the-badge&color=ff69b4)]
 [![GitHub Issues](https://img.shields.io/github/issues/manitejagaddam/Job-Net--A-Companion-for-job-search?style=for-the-badge)]
 
+
 ---
+
+
 
 ##  Tech Stack
 [![React](https://img.shields.io/badge/Frontend-React.js-61DBFB?style=for-the-badge&logo=react)]
