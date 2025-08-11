@@ -2,11 +2,16 @@
 
 A comprehensive job and networking platform inspired by Upwork and AngelList, built with modern web technologies and AI integration.
 
+---
+
 [![License](https://img.shields.io/github/license/manitejagaddam/Job-Net--A-Companion-for-job-search?style=for-the-badge)](./LICENSE)
+
 [![Build Status](https://img.shields.io/github/actions/workflow/status/manitejagaddam/Job-Net--A-Companion-for-job-search/ci.yml?branch=main&style=for-the-badge)](https://github.com/manitejagaddam/Job-Net--A-Companion-for-job-search/actions)
 
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
+
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/manitejagaddam/Job-Net--A-Companion-for-job-search?style=for-the-badge&color=yellow)
+
 ![GitHub Stars](https://img.shields.io/github/stars/manitejagaddam/Job-Net--A-Companion-for-job-search?style=for-the-badge&color=ff69b4)
 ![GitHub Issues](https://img.shields.io/github/issues/manitejagaddam/Job-Net--A-Companion-for-job-search?style=for-the-badge)
 
@@ -16,12 +21,16 @@ A comprehensive job and networking platform inspired by Upwork and AngelList, bu
 
 
 ##  Tech Stack
-![React](https://img.shields.io/badge/Frontend-React.js-61DBFB?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/Frontend-React.js-61DBFB?style=for-the-badge&logo=react) 
 ![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge&logo=express)
+
 ![Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
 ![MetaMask](https://img.shields.io/badge/Web3-MetaMask-F6851B?style=for-the-badge&logo=metamask)
+
 ![Google Gemini](https://img.shields.io/badge/AI-Google%20Gemini-4285F4?style=for-the-badge&logo=google)
 
 ---
@@ -302,10 +311,6 @@ Supabase provides:
 - [ ] Machine learning job matching
 - [ ] Mobile app development
 - [ ] Enterprise features
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
